@@ -11,5 +11,4 @@ Arduino based aquarium fertilizer system, using a peristaltic pump.
 
 **Schematic:**
 
-![fertilizer](https://user-images.githubusercontent.com/17927472/184950623-88bc69d0-d276-4977-b264-6dae4e7a4e00.png)
-
+![schematic](https://user-images.githubusercontent.com/17927472/184951323-ffc0662b-c618-4706-9838-cbc9ff2916ee.png)
