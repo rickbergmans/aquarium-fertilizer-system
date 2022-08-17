@@ -1,6 +1,10 @@
 # Aquarium fertilizer system
 Arduino based aquarium fertilizer system, using a peristaltic pump.
 
+**How it works:**
+
+[Watch YouTube video](https://youtube.com/shorts/QLLF72kz8z4?feature=share)
+
 **Components used:**
 - Arduino Uno
 - 12V peristaltic pump 
