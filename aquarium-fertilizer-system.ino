@@ -32,9 +32,9 @@ void loop(){
 }
 
 void aquariumFeed(){
-  // run pump for +- 5 seconds
+  // run pump for +- 6 seconds
   digitalWrite(motor,HIGH);
-  delay(5500);
+  delay(6500);
   digitalWrite(motor,LOW);   
 }
 
