@@ -15,7 +15,7 @@ void setup()
      Serial.println("RTC has set the system time");
      
   pinMode(motor, OUTPUT);
-  Alarm.alarmRepeat(8,20,0, aquariumFeed); //set timer to control pump
+  Alarm.alarmRepeat(8,25,0, aquariumFeed); //set timer to control pump
 }
 
 void loop(){
@@ -34,7 +34,7 @@ void loop(){
 void aquariumFeed(){
   // run pump for +- 6 seconds
   digitalWrite(motor,HIGH);
-  delay(6500);
+  delay(4000);
   digitalWrite(motor,LOW);   
 }
 
